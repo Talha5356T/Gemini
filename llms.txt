@@ -1,0 +1,3 @@
+# Gemini Clone Project
+Description: This is a portfolio project demonstrating a clone of the Gemini UI.
+Owner: Free Plugins - Net
